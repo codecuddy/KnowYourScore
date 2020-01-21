@@ -12,7 +12,7 @@
 
 3.) Prior to this exercise, make sure to take note of your currently compliance score on your resource (found on the dashboard at the bottom of the screen). Using the first list you exported in step 1, remediate a non-compliant resource. 
 
-  - [Knowledge Base Assistance]()
+  - [Knowledge Base Assistance](https://kb.opscompass.com/knowledge/how-do-i-remediate)
   
 4.) Using the first list you exported in step 1, add a policy exception, with an expiration date for tomorrow of a non-compliant resource.
 
