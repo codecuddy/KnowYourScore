@@ -1,6 +1,9 @@
 # KnowYourScore
 
 
+## [Workshop 1:](https://github.com/codecuddy/KnowYourScore/blob/master/Workshop01.md) Use OpsCompass Core Flows to Add Users, Understand the Dashboard, and Baseline Changes for New and Changed Alerts
+
+## [Workshop 2:](https://github.com/codecuddy/KnowYourScore/blob/master/Workshop02.md) Use OpsCompass Core Flows to Identify Compliance Issues, Export Reports, and Remediate or Apply a Policy Exception
 
 
 
