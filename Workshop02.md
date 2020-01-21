@@ -1,24 +1,22 @@
 # Workshop02: OpsCompass - Know Your Score
-# Use OpsCompass Core Flows to Add Users, Baseline Changes for New and Changed Alerts 
+# Use OpsCompass Core Flows to Identify Compliance Issues, Export Reports, and Remediate or Apply a Policy Exception
 
-1.) Add all users from your group to OpsCompass, and then have them log in to OpsCompass.
+1.) Export two reports: the first report should be a list of all the high severity compliance issues in your specific cloud account, and the second report should be be a list of all the storage accounts with a compliance issue across the entire tenant.
 
-  - [Knowledge Base Assistance](https://kb.opscompass.com/knowledge/invite-user) 
+  - [Knowledge Base Assistance](https://kb.opscompass.com/knowledge/export-compliance-report-all-resources) 
   
-2.) Assign each user to a different team in OpsCompass and discuss how the dashboard and alerts screens are similar and different.
+2.) Identify how many ports are currently open across the entire tenant, and the name of the subscription(s) that are out of compliance for this issue; a high severity alert directly violating CIS control 9.
 
-  - [Knowledge Base Assistance](https://kb.opscompass.com/knowledge/user-to-team)
+  - [Knowledge Base Assistance](https://kb.opscompass.com/knowledge/compliance-by-framework)
+   
+
+3.) Prior to this exercise, make sure to take note of your currently compliance score on your resource (found on the dashboard at the bottom of the screen). Using the first list you exported in step 1, remediate a non-compliant resource. 
+
+  - [Knowledge Base Assistance]()
   
-  - Note: If you want all users to have the same experience, after the discussion above go back and ensure that all users are now a part of all teams. 
+4.) Using the first list you exported in step 1, add a policy exception, with an expiration date for tomorrow of a non-compliant resource.
 
-3.) Navigate to each individual alert in your groups subscription and discuss the changes that OpsCompass detected from the template deployment, and baseline the changes in your subscription with a description. 
 
-  - [Knowledge Base Assistance](https://kb.opscompass.com/knowledge/set-baseline)
-  
-4a.) Have your team lead, who has access to the Azure portal and make a change to a resource in your subscription (For example, add a network security group, an additional subnet, or a service endpoint). 
+  - [Knowledge Base Assistance]()
 
-4b.) Discuss the changes that OpsCompass detected from these changes, how they are represented, and baseline the changes in your subscription. 
-
-  - [Knowledge Base Assistance](https://kb.opscompass.com/knowledge/set-baseline)
-
-5.) Time permitting make additional changes or add additional resources in the portal. Explore the deep link features of OpsCompass, or try to create new alerts that weren't triggered in the initial deployment. 
+5.) Time permitting apply a filter and export a report that contains the resources that are now compliant because of the actions you took in steps 3 and 4. Identify in the logs for the specific resource where OpsCompass tracked that an issue was remediated. What impact did this have on your teams score from prior to step 3? 
