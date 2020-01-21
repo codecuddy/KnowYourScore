@@ -17,6 +17,6 @@
 4.) Using the first list you exported in step 1, add a policy exception, with an expiration date for tomorrow of a non-compliant resource.
 
 
-  - [Knowledge Base Assistance]()
+  - [Knowledge Base Assistance](https://kb.opscompass.com/knowledge/policy-exception)
 
 5.) Time permitting apply a filter and export a report that contains the resources that are now compliant because of the actions you took in steps 3 and 4. Identify in the logs for the specific resource where OpsCompass tracked that an issue was remediated. What impact did this have on your teams score from prior to step 3? 
