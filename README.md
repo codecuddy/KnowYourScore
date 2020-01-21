@@ -6,6 +6,7 @@
 
 ### [Workshop 2:](https://github.com/codecuddy/KnowYourScore/blob/master/Workshop02.md) Use OpsCompass Core Flows to Identify Compliance Issues, Export Reports, and Remediate or Apply a Policy Exception
 
+
 > You’re invited to workshop at the Microsoft Technology Center that will help you to easily establish a cloud governance and compliance program. As an output of this workshop, you'll receive a compliance score that measures your current public cloud environment and the cost and security risks it poses. This score will give you insight into immediate steps you can take to secure your cloud within days, rather than months.
 
 > With the Cloud Adoption Framework for Azure as the base of your future compliance program, you'll learn how to leverage industry best-practices and specific learnings that include:
